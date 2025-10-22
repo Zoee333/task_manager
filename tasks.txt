@@ -1,0 +1,4 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+admin, Commit edits, Commit and push recent edits to code to git., 13 Jun 2025, 12 Jun 2025, Yes
+oop, Delete me, Delete this task., 16 Jun 2025, 16 Jun 2025, Yes
